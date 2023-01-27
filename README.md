@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tom4s-MP
-- 👀 I’m interested in ethical hacking...
-- 🌱 I’m currently learning  cibersecurity
-- 💞️ I’m looking to collaborate on Hack4u
+- 👀 I’m interested in development...
+- 🌱 I’m currently studying html, css and javascript
+- 🌎 I’m from chile 🇨🇱
 
 <!---
 Tom4s-MP/Tom4s-MP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
